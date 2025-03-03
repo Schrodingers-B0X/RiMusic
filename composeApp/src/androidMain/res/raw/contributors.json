@@ -4,7 +4,7 @@
     "id": 1484476,
     "avatar_url": "https://avatars.githubusercontent.com/u/1484476?v=4",
     "html_url": "https://github.com/fast4x",
-    "contributions": 10817
+    "contributions": 10918
   },
   {
     "login": "aneesh1122",
@@ -84,13 +84,6 @@
     "contributions": 2
   },
   {
-    "login": "wispl",
-    "id": 108438586,
-    "avatar_url": "https://avatars.githubusercontent.com/u/108438586?v=4",
-    "html_url": "https://github.com/wispl",
-    "contributions": 1
-  },
-  {
     "login": "821938089",
     "id": 8674809,
     "avatar_url": "https://avatars.githubusercontent.com/u/8674809?v=4",
@@ -143,5 +136,11 @@
     "id": 64766434,
     "avatar_url": "https://avatars.githubusercontent.com/u/64766434?v=4",
     "html_url": "https://github.com/SuhasDissa"
+  },
+  {
+    "login": "wispl",
+    "id": 108438586,
+    "avatar_url": "https://avatars.githubusercontent.com/u/108438586?v=4",
+    "html_url": "https://github.com/wispl"
   }
 ]
